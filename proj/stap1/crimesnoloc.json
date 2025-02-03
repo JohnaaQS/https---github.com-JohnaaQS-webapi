@@ -1,0 +1,3250 @@
+[
+    {
+        "category": "bicycle-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "3cce1d68d447e230f4d341552260b75a444355d2c2dc89052363a235b9b43902",
+        "id": 116203234,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "bicycle-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "2dfbe17ccd04260ea94db37ae5d759078cd728430c668c84b5b8b1a08ec253ca",
+        "id": 116205668,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-10"
+        },
+        "persistent_id": "1435974b6758d2d3be4da594a84913877173485d6a39c70a25841f1e1ce28459",
+        "id": 116206380,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "4e0c211629f3e033f40312edc67f430751b3a40d3f2802cf3e0c2476a4321b6e",
+        "id": 116202268,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "70d4f52a46636e7a7b695914c4a24508e8432292fb38996d9d16d03a44499232",
+        "id": 116202256,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "5e9de2c5b7cdfe4f95f13adbd973dbb175ad6de7dcaf2cbcbe1cfec98cd783cf",
+        "id": 116205510,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "e6219fd5a63b7c2e96f4d0f4d7b29a524406de48af3591cf06010abfdc27e529",
+        "id": 116202888,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-04"
+        },
+        "persistent_id": "bee75b109d76dfbe909e2e8ffeedd2d47878e55a2d9a019e61c28053eeec93b7",
+        "id": 116203804,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "f72ef8dd19200c783600be1c05157b32466d6d19fdac3552a01b0788badcbcda",
+        "id": 116205027,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "0d2eb297aa69cb1f9d5cb407bf4f3f24af2f76fff3189f49fe5be6cc65c30e7d",
+        "id": 116207345,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "5085e5f3759e28661457a4562a418377e0251895b3c04690cb43d6b32a6a187f",
+        "id": 116201162,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "fa2dbcf6866f35e420fd31cadfcdacc326f4d4b0da67cb27853fa6885269cba3",
+        "id": 116201158,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-03"
+        },
+        "persistent_id": "e7564199d9de1c72bb2d58c7a2638a65f849c542040b6d49ec1d70785da389c2",
+        "id": 116202798,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "d432e9fa1b159a089784485e1df1c67fd8daec0e546ebb9e12b64c7ffd40d7bd",
+        "id": 116207574,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "91efa9a63376a6788a2112f9c48d80b313bda602fcd197749af700b41b5fa3fc",
+        "id": 116204752,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "cc3fee794219ba2b11343ff9ae176061a6282ffd954c908b3b8c4692acca8fa3",
+        "id": 116201193,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "707ad211e372524666f276333a4a17982c8371f97474821be2e7dceecef3a358",
+        "id": 116202006,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "5a56dfca17be8f3fe7cff11861b14f918d1e23eeca8b0c1f238d88888bf5a7eb",
+        "id": 116206518,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "e146d700fe1a9e2e8b4d59a1e81350a155252bb4efd572b72ad0ca816e358aef",
+        "id": 116200990,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "7a06e2ef2f112148c0b9985ea2e33262c78cb23e63402c1b22ebb8096302cf5b",
+        "id": 116201504,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "burglary",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "0d81f946151d02d70b3d34eb942b2d4e7a34e1a49d8381b18a4b12a3f27e02df",
+        "id": 116200998,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "a0fb4f487923767a0385f8171fbcb1c44af4252ab48fb9a8dce27b64a2b2397e",
+        "id": 116208318,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "64c05b8147bd9a6facce87eb6f9a2047915a8b6c1efb5648847260bb57ed9f94",
+        "id": 116204298,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Awaiting court outcome",
+            "date": "2024-07"
+        },
+        "persistent_id": "d404d6fe8a68cff14a0e2c845e705cfddf0b5962fe54632a0e2bab4de6554a52",
+        "id": 116208191,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "7e395e108ad3d3cd39d45f8696fa01e638d64d8194064947e044db832a658d20",
+        "id": 116205921,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "dca9360398dfc05ccbc6e33b4d4c674a40925325a395043e6fa91cf13dfe4ecb",
+        "id": 116205770,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "b2c9e8e60a0fff3f5214aaa8705f3d4ab0b0a1bcac68d64be03653d7fdd2037f",
+        "id": 116206734,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-01"
+        },
+        "persistent_id": "7e521defb3844eaddbe97c40201df92af47928930374fedad3d7bf1b70ac6997",
+        "id": 116206452,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "a4e3ae237eef3addd4edb9b00770cf3c78aff2e615d6ceae7a9cc77a52979bde",
+        "id": 116204841,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "128d930d6c323c59d3783feefdbc5507bb80810d3feea19c0bfc563ba67b05f3",
+        "id": 116208045,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "a6f27cd3c29cb8e9c36ef01a55e4b8d10427e99e0b5b624a0b0999869d6e50cf",
+        "id": 116204786,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "41f80a815b03aae66524a5b6ffd52aeec17121ee91d31cec06f8a37311a3037d",
+        "id": 116204592,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "f22b5b789c728b9be4083af471e249f1941724b4f9f61f06b5752095b58ff1fd",
+        "id": 116208423,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "8570b809ff9a68d4963e81c4a08c276701e063f637a1bee71830596a624b7739",
+        "id": 116206060,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "4bad4906515bf7086342a44af66eb384cbdb90f4c5533779ff404ba79db05ab5",
+        "id": 116205069,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "30922c66ed28fa5d59d73e7108f750429164b9727e7ca97eb1b9d1d914dcaa6e",
+        "id": 116207362,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-04"
+        },
+        "persistent_id": "797a83ceb0fb42d3003a96c55e9ac223b9a9f039e81d7cee1666867d293ff5d7",
+        "id": 116203318,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "f77dca5a0527fc12daa1ae8ec6a0ee23d1cd9d6c6f9bccfaed8cf6cb1ab44f5d",
+        "id": 116200872,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "fcc089390cfa2cc06bc57edf24e0a150fbc0ba40ffa79862ec90b840e894c868",
+        "id": 116205846,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "08c71709f0c186b440de3d4a3556ce0b237e1ecf375ab3680dcba530541e2862",
+        "id": 116204972,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "3de819cd89a8d6fddc8f145956c92a6c8ccc68b132bce5bc0a2787a9ce0155ba",
+        "id": 116203931,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "criminal-damage-arson",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "bcf8a801e3feab9d7c0365233cbce9ee171f1020a9c40d946ea9492f02630645",
+        "id": 116201244,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-02"
+        },
+        "persistent_id": "fb8ea67524e462e17b75ce6b41b6b7d30f22f86aeac35a2e39dc473c340a9e56",
+        "id": 116205025,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "895408a71d929f9c446d9928602a37ed64ed5bd85f3ee89f6ebf8802a26450bf",
+        "id": 116205261,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-03"
+        },
+        "persistent_id": "36ef2f702f8c709fef26ebfb0ced788f2e8cb95d77b8c749fe05b78439378308",
+        "id": 116205290,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "7faaf1aebc55ae2dc55202c64d93bc081aa89b58bfe5c01962675d83aac9398c",
+        "id": 116201421,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "4368bdbc82af9e2f7cdeb4075c1f2775435fc06a55041af711774b549742c2b9",
+        "id": 116208106,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "4555d920ab7aeb613c2e6fa4dc5216f8309ba82ffb513b95c943f04063950b02",
+        "id": 116203445,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "0375dbb2b87b4e9eab3d6e77a6a1ca71afb82c1ed7cc2a1b00435f3edd91dc08",
+        "id": 116204990,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "3ed0925d42f3ccfad2bb4e51c6fa4e6e1f9221dfdd8ab3a38cf1069c75e50ddd",
+        "id": 116203858,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "705f8bfb8b53ef007a45d29bf74b984b30053df21802892dbe029255321603f7",
+        "id": 116202290,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "350471057749c12b7a10e01ddeb8d7334db8afe21056233fa658ac9142f24d67",
+        "id": 116204974,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "b1c952258b80bafc641c61c21ba908babd6dbd40257751429033580b9571487c",
+        "id": 116206729,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Further investigation is not in the public interest",
+            "date": "2024-03"
+        },
+        "persistent_id": "22b615629f389c42b3756c2a5b68a53ce54e42fe2afa6639f25369e3f9474b89",
+        "id": 116202515,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "drugs",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Formal action is not in the public interest",
+            "date": "2024-09"
+        },
+        "persistent_id": "cf0be93ab1bc4d14a616514a424a9ea478b5bc2525bf9407cccb1b6bfc6b01e4",
+        "id": 116205754,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "2911bf525cfbfe21ae2e068654bdad88af942e477a60b10f3c92272342104dfa",
+        "id": 116202986,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "87e4ec37383cbc0855f3fcb3f5180c35b6111a0424502d5a6a623b50be61846a",
+        "id": 116204460,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "c9f15a6df87281ee3796cd41f1b2ad1cda86d579a40b00447229a1549d3b770a",
+        "id": 116206115,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-03"
+        },
+        "persistent_id": "dfed03986bad20e7d7067372cd1b6c83487d7f3478167dc81962dbc423d5b7a0",
+        "id": 116205143,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "1423c28b04223c39940ec26d39c1ffd9b6161819aece5a3e4bcac963e51e4048",
+        "id": 116205161,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "ab2c16f4b410794714d8a344832a41e3295c537e8f8284a91ceab276e7201530",
+        "id": 116203536,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "541f2ae0ab350bcfc41bcabc4c450403f3d8e10377a7dff8823f5e3ed96a128c",
+        "id": 116200867,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-02"
+        },
+        "persistent_id": "7db6be251b8f6cdda477925c78b6d4908277a820d9e87951af087110219081f5",
+        "id": 116202684,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Awaiting court outcome",
+            "date": "2024-09"
+        },
+        "persistent_id": "1a3111abc3e58274b771e19b1b1269a6be716daa66a0b3e079569a848e3d6bd3",
+        "id": 116208487,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Awaiting court outcome",
+            "date": "2024-07"
+        },
+        "persistent_id": "aec962a3d561899ff708e8a369d4b6aed14a5f8b1f89fb9cd297ff15a5686934",
+        "id": 116205226,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "bae09be957a639e83af9244e26b371a7a269df7b362ff687af1c41fbd28c93ea",
+        "id": 116203490,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "6dcfcdd45f40e518ba05a0aae40d1228a3991e4731d5e499bd651f0446cae17d",
+        "id": 116205485,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "4788545e5781612450c8f684baf1a9a6aeeb5361644bdfb45317fcc8e0aed7a8",
+        "id": 116201598,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "0b62261b65e06d8d8740e01cb7ba809db31240c4cde06055fd422cd1bfed40ec",
+        "id": 116207859,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-theft",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "8da7bb202f006d3f3bdf572f72128b654f7f3612399f49d39317f545bd05b0af",
+        "id": 116203452,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "possession-of-weapons",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-08"
+        },
+        "persistent_id": "938ab174384e57d482d56cc21257d9a644604a2bde16c728474ba46825a3fd51",
+        "id": 116205670,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "possession-of-weapons",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "f12b5c250aa010dfe7f4aea88a9d7dbd6336993d20dbde486a0c5d08f1d6ef91",
+        "id": 116207273,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "possession-of-weapons",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "1b9338e5bd77f551ca83002ae2f5c30b7bf3927f4d01b9821f20e642195d3e0e",
+        "id": 116207477,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "possession-of-weapons",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-10"
+        },
+        "persistent_id": "fa1b02072823e1936221a15db41eb5b09c18b0beb19ad8bdbd9d3e05dd7b539c",
+        "id": 116207746,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "possession-of-weapons",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Awaiting court outcome",
+            "date": "2024-08"
+        },
+        "persistent_id": "a81d4670bac6cfe98594659743ea84e53193a7a6345909564c68a51817721d8a",
+        "id": 116204943,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Formal action is not in the public interest",
+            "date": "2024-01"
+        },
+        "persistent_id": "95066b57eadc22fbab6ef1de72a8e8c36b5144836e70d902afa0c0b33a3d1c18",
+        "id": 116204271,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "dece3e2a234db8f6b07732a2eebe8f14c72e62b3d1553eb3596bc8a985ceb2a4",
+        "id": 116204794,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "754e9618e0f19ae2eb69f48704630f06856a8521c0596d354b7c54f4dc4b8360",
+        "id": 116205358,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Formal action is not in the public interest",
+            "date": "2024-04"
+        },
+        "persistent_id": "f316b989d6a3573f7060907fb5dbd0ca98f623cad7a9e8f2f2fca98f23906cfd",
+        "id": 116207953,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-03"
+        },
+        "persistent_id": "97daa6178022d7256780028a62273018cba038c59b5275d5112679cc70294e71",
+        "id": 116202168,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "46c3a6551c207d16d833074eed55c4573820041f9a82f3d084f031d7079686b7",
+        "id": 116206904,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "cfaa8da3840ad34e8171b690b02cba98d412965f0d4254dab4d41c9804961a77",
+        "id": 116207689,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "08fed6d3d5ca12dc4493b25a1da19cca542299b980b7b0a5c4a8036bc74c071d",
+        "id": 116202316,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "6ba97f6aacebe48dc4b13d0eb45695bd93bed3f09dafdb72cc9b23e1864811d7",
+        "id": 116207096,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "50c262cd526327a4cea4f6e669485f70b1c15076579ab549797bad66cd4f2b30",
+        "id": 116205914,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-02"
+        },
+        "persistent_id": "88e12d8c2e064fe0a3dad4661bd5c1645c46f606149f3923cbbe1c3b2a05635d",
+        "id": 116208101,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "cb638f616006200431f58584e38c3045179c39521cd896db716599ca67f7b68f",
+        "id": 116201108,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Formal action is not in the public interest",
+            "date": "2024-01"
+        },
+        "persistent_id": "a8c709647d16a938ece9ddcba33fc3f5b215c5c502ce5b5fa15df1aa7f29c3af",
+        "id": 116201058,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "44a42e73c75f48a6661096db776b4cb038f73742e88af154a65184d00b4e049c",
+        "id": 116201025,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "2a903ccfd1cf13249abe9712e9521ad6711580292d26f60e558f7a431385c26a",
+        "id": 116204296,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-09"
+        },
+        "persistent_id": "143335b901e942a52cfa04ae66c1415a8545a99f3433d0aace33c1de1cc7b880",
+        "id": 116204914,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "8b59d1a1b0670bff28733b50dfbf40d9b41d48f107134c67bcc1e9923bf812d3",
+        "id": 116208252,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "ea85c6f15fa9013e9dc2ebdf4e7768a38e74678eea45d0f5a80ae25d751ef0f8",
+        "id": 116207201,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "254945cdbe3e21f3803d4f5feefaa94bff6ca2419194c08b6a257e9b8dae066e",
+        "id": 116205271,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-08"
+        },
+        "persistent_id": "30cde16b28bca05ea905b42c2ad07a682ff781873b1a466709cc6171e6a4903e",
+        "id": 116205315,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "f1f24129c91571d5acd57c10fd83f94ab02b9217ca9f739d2e781a9850eb6165",
+        "id": 116202207,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "2408a12470305e7f66854cc2e189a9951d7aa30d26150e9e2a015f39db0f0062",
+        "id": 116207156,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "6b307dda447b2ddf01dc2c9659641120455278374a8ed6fd0d66e7f434195aff",
+        "id": 116204536,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "09c371c0f53acfef7fdef101b1da5cdf6707e3f8fc09209ff53b784e797ea420",
+        "id": 116203337,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "79bc2c42f2a7144b8cb49b085a82126e61795893f44199834e1a1a6eb9b3dcd6",
+        "id": 116203989,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "e317e29c11c94aa179cb1fb1c6117cd0acaa046957a3c1362dc0caf97d1446a7",
+        "id": 116203933,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "dda53952c142e6271086988f1591cda2a1e55ffb239926358a5831eaf2589f71",
+        "id": 116202880,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "2d039d202bccda2aaba968b59869b07aeeccdb7feb5eb106f518616b79363793",
+        "id": 116204635,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "public-order",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "f507484678321b25282cdb45a80d2e80401dc10512f241ed3f101e0204068c08",
+        "id": 116202877,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "robbery",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "6aae81289efc98e0a231a23bf967be55b33f7edbe7ebb51fe765a8d0272515d8",
+        "id": 116204591,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "robbery",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "c32100065b2b417dc664a2900ed851eb143723dd23f1e0dbd61397f9b0a1cbf5",
+        "id": 116207293,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "robbery",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "123d62a82049a771a0b8324cde5e44f1cca496a2c95924d251e20ffedd40a085",
+        "id": 116208277,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "6f65daec75e699f18a574f5dbce1d54365012e500e46e0801e3292ab6b95f20a",
+        "id": 116207396,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-04"
+        },
+        "persistent_id": "9d16cc764a676449c8e13d4adc88e0f8abfa0fc0337602168457cb39c87f420a",
+        "id": 116205724,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "e71eb6b8004941b333228103f7fdcb6c2257fc596685f839db6e91ef209b68dd",
+        "id": 116203827,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "9a0f4a35b19d762659735e08e1ca02b9b17fdb5fee5d954e13cc7704945f0eb2",
+        "id": 116205462,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "891b44155244a3c4b4c1e22f256011d0f403fa7497ef9f905a48bafb76e9385f",
+        "id": 116205714,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "bba54cfe81235a7398482ecfe0e2b2c4f7fd89c023fa483750ca4eb7576e66a7",
+        "id": 116202675,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "shoplifting",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "d12408b1e77c831bb9bca33b5188e2ae876a398d4be92b8c4f0ac03147ac2e73",
+        "id": 116205689,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "theft-from-the-person",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "366f60371263f0228c54e9974573d2b4fb625823569a86ab0fbe6d651753d955",
+        "id": 116201243,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "theft-from-the-person",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "3ea820a1d7d9cb5b92ce6550e327c95779b8c3ffdd2bd01fee48947ce31b8e7d",
+        "id": 116204959,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "theft-from-the-person",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "b4c36b50e5f7d00ad20ee62cb5415f557e3f6d5372afac8e44abe880521c6ae8",
+        "id": 116204230,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "748f53e8cedc211e9a2ced152171c8b15b475383d6b4cc7d2f04a14999060db2",
+        "id": 116202513,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "3414ac8d5132222a2669618622ef6da06e5fe4d0e899d1b2878fa8045fb2164e",
+        "id": 116206005,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "e5a0cede10c8b987e198ce1b02ae1390f28506dd8a12faffd6e425226f46f615",
+        "id": 116207529,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "4037b0d70911334797309096f1e44f10c65ec41110194bc0d6f2d0078bae0bcb",
+        "id": 116202910,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "1e9c4494662e73fc71c5b4dca93a8c02593b503c193da9f1c5312fbd340d9ae9",
+        "id": 116205188,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "60c4c2761b03ac5f6b1f998e574419a1aa69c96e34c8dbc34ea6b7a20ec094fc",
+        "id": 116208292,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "0a0f5a8c2ecdb8e25751682fb46cb877880cecf74f4a08572e5703c0fd0ee400",
+        "id": 116203457,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "7f24c6d56317073883273ee92661579da788f2662b1a3ab2603ea152b6469432",
+        "id": 116207663,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "vehicle-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-09"
+        },
+        "persistent_id": "9b68f62886af9ee1b84c7fe1bd57fd6fca272c0ff45cc7d6df0cd8b0d927ad30",
+        "id": 116205538,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-03"
+        },
+        "persistent_id": "3add42008150a5a8234b27133be009d04af1d38aa1566c29907899902be14ccd",
+        "id": 116205356,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Further action is not in the public interest",
+            "date": "2024-04"
+        },
+        "persistent_id": "99c68b2d8690eddb28304563341b26045596fa7e7dcf9ffeb41d14165e009e83",
+        "id": 116200797,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-04"
+        },
+        "persistent_id": "5ad56f3c0f38c9440b4d971eaef7932a375982d4c60e49bea299d80bb27bd18b",
+        "id": 116202000,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "3c1c1bd65ff0b3e3fa20feb0783c011714af4d2b4e376b61e60718bdf0600dff",
+        "id": 116201045,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "0df44ba69ccbbb626a975b7975359eebe0c39d90921a62f851b25f92695556fe",
+        "id": 116201030,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "c63826560870023b54f38e8b0bb410b5b96107c8c6b30f0dc0ad6bb3e0589f11",
+        "id": 116201178,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "c0f919d3999ac9387ea229839e1b956806528e885fd298a912445327ef140c37",
+        "id": 116201786,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "a4ae6e34033eb339d8801a497d3959784fdf0a02ac91624d30a7952d9c030e4a",
+        "id": 116201909,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "39d94c934c872ec4d13de86842bc44e265910e17b981939324cfc4f5505a854e",
+        "id": 116202501,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "e77d5d37fa53753b11effdffc831c72918e735848c83a69bcebe05881ccbcb85",
+        "id": 116203001,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Further action is not in the public interest",
+            "date": "2024-02"
+        },
+        "persistent_id": "e86370944981b6642685ee869e2acac70066f1f0028a66b8f565a128cc1cff22",
+        "id": 116203087,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "ab22e98910b95ddbf98ace7291f1efe3d2e388e49dabc48074f172b53a177570",
+        "id": 116203726,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "d25400a770733f2dacd87b8c16aca1ee39ca411ca85858bfd4efe237adaffedb",
+        "id": 116203907,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-01"
+        },
+        "persistent_id": "37ff296f5acd4d4f584a7a2779ab19d796aaba9cc0ce2336bbc85353877c82ec",
+        "id": 116204372,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "57f5a85e8be459c12306a0e573d713acba2cc5df2161dbf771d60f9462e50fdf",
+        "id": 116204557,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "843e3d76b4c610fd8374bb9025fd334adb15e07b26296a1cd0b0669905d368fc",
+        "id": 116204989,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "0940f5d7cf9f851d32441e83389427d56def8a21d8ac59180646fbed61b05e67",
+        "id": 116205180,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-05"
+        },
+        "persistent_id": "d05cb05e3c5a07e2bf74c8fd9065952bfe25c949e56ffea3579c43bcef758bf0",
+        "id": 116205288,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "31c2d831780758e45d76ed5431d9e5f11ee9940f1a87c8f0f87d90deae5af2e1",
+        "id": 116205351,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Further action is not in the public interest",
+            "date": "2024-02"
+        },
+        "persistent_id": "711255481487510eab32f2b5f4bb17355927b70b4c77c15c519d70569ffd087e",
+        "id": 116207251,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "2eb1d4002851aa44b87d514eae5257b0470fa80f80c274f5f41c659ef3c99274",
+        "id": 116207011,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "1e9cfcaafdcb02f06d856c1a190b0c730412f64e0c5c08ade6cf2c4f119fdf74",
+        "id": 116207263,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-06"
+        },
+        "persistent_id": "096bd8fa7762b5b0ad3427ee8ceaeaf5a37ca138e752e0838a1ff279542f7d79",
+        "id": 116208000,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "605066c2ca5cfc1120825f8b604fd93cb026f20b13a5dd3f9c651a7565376894",
+        "id": 116208510,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "838bbe98891f7466fd50b629df21d56907fbb8e7ec904f76b16be16ec34e9fdd",
+        "id": 116207139,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "309893323db5b642b21e6e0e4a093f4bb056da0428f8ad3fceaa0fc01cd16dcd",
+        "id": 116207366,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "a88e4944a09a9ebf56f501063d53385d72c7d149f66906726f5d03699f09c462",
+        "id": 116204369,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "d2026eb3f8306f3de075d3e45d3cc40111d9e12b641f28924df0ff0c47cede46",
+        "id": 116207255,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-08"
+        },
+        "persistent_id": "9ab8dcfc9cf64b5984867c63c2401e0886f6183cd3356b55f3ad898f3a914bef",
+        "id": 116206795,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "7d7b438ef25cdebd676e43a3d94155790a11e465721b32b86ef0fe23d593b608",
+        "id": 116204992,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "ed0c6e65d768dfc3b3fc6b2d4041080e186cec72fd694807f617b2c7444021a7",
+        "id": 116203510,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "028f8ccec0c399ec071c3b7d616cf12a618db2a66a1a73daaa3b3d9f196744d3",
+        "id": 116202043,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "b2e9cafb13f81d40a589770796a16d3671b85235c1f57c0828472d66c006dbca",
+        "id": 116202264,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "15b6684fe5dca3f684e3657e7c6f608876a7eb5a9cce068d0b63e9502e7bdc8c",
+        "id": 116207214,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "0551623c23be906e30f0e3c64b7094cc80038eb8ea11bd84ec6c7ec84d8b9697",
+        "id": 116200838,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "c76e9584e8de3f672da6a094468a39a2af6873824fac47c3ae9ef9fd1909652b",
+        "id": 116201012,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "be8ff269f4d30bc18ff42389c25ecbd438f1b40f08a8fe2f78a65d4c83a8aac4",
+        "id": 116201064,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "03da80582df30bedad4debd7f6df87b10de96bdf8450da0b112d7821e122c78c",
+        "id": 116201378,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "a07a5fbbf262016ced6b9f6feea0d6a5f18a961a2ca68558c453f5d99c5c7680",
+        "id": 116201745,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "cbcec9a18eac20dd5ccdb1b540d1fa1f6e1e7219fcd8319fcd5292500359de69",
+        "id": 116201942,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "279bbb28e5ffce79a3aafffa9aaceb4c0c0e909343460aef0e7a066558960832",
+        "id": 116201968,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-02"
+        },
+        "persistent_id": "a777dac01f113971b7671903a16dc075c0333a2d41f58cf1e66766030ce11709",
+        "id": 116202004,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "6849bcc77fa9317b811a5ba5559de67816499de11efc58e6eab459e22904f138",
+        "id": 116202086,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "2c2c71367f4faa7d48c794c38aceb9fb26402cc0c0d127bc8ea68def726fbd40",
+        "id": 116202404,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "5615ddeb26c57ca58b79b75d19d3fe4a6c99dfaff722790a3cbd07086186705e",
+        "id": 116202855,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-09"
+        },
+        "persistent_id": "6b0a0a88854039ffe2f58f9342e832779504fc5327bb66606c15e8736ecc211d",
+        "id": 116203243,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "4b37e040c9fa7b888fd47a15865c6520a33faa873c7c0d8c7669b5aca8ec93de",
+        "id": 116203410,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "7a84c86cfd4f3a86db95bc78d51b6286244a66d0d3fb98bf3d059ad9c8adb9e0",
+        "id": 116203709,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Awaiting court outcome",
+            "date": "2024-11"
+        },
+        "persistent_id": "e24d6ac7c8c9854b0e31a8d4235f5e8bc04f479c00cd858ee105e46b5af1fc42",
+        "id": 116203819,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "a2b2e5ac2d3c4c6d2e051a98fa1ae6bf5d6006f4bcc2bc41da45e318084dbbc6",
+        "id": 116203927,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "cc117e28f171b8bd7d6049fe032771dbe086c4938b89dd62b231f153ea30631c",
+        "id": 116204263,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-10"
+        },
+        "persistent_id": "2c4818f9c01fab65c5943cf2c6b8b8c911d0aa72633c473ba124ba5e0dc1a6a8",
+        "id": 116204826,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Formal action is not in the public interest",
+            "date": "2024-01"
+        },
+        "persistent_id": "2ae2445936d889889b63f70a124ca6c26517d6e7cb8d1baeefa9b22705d3a5b7",
+        "id": 116204878,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "a3bead0e48240eb96b1984211cbdb6129874d0c22352601fc599381396c77e3b",
+        "id": 116205367,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-09"
+        },
+        "persistent_id": "c4b781a45ee3f6edc082a69a433fd15cbc472f1020a0582f5dc49f65d2334aa5",
+        "id": 116205376,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "b6ee4231d3c3eae081e9c5c6eb4acca51e7c1075497a3179bad50aa3821ec8f2",
+        "id": 116205407,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "ffc78d2e186f2564257fdd6d96119335043bf3feab4a4b987f381138f29dd31d",
+        "id": 116205847,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "ee15e3bf09832b2ed7b4171dd94115e7367b15f30c5d7f65ba9760834b248ea2",
+        "id": 116205842,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "c6598a159ecc27de6ee94e599bb6821fbc112fa9004d82c634371cb150c6f128",
+        "id": 116206150,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-10"
+        },
+        "persistent_id": "88b1bf4f71f2228b7d3e2f813ca4a6a3b15ac328f6097c2e77fadad05bcdc8a9",
+        "id": 116206346,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-03"
+        },
+        "persistent_id": "e9f80d9a04a8313a84d9934f9b7652b53febee79d8dad46cd8ac8cc01e145f00",
+        "id": 116206401,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-04"
+        },
+        "persistent_id": "f045b435b13e5eea18a604eefd78b4841a2fca2d07e0f2773d62ed7b4394feb8",
+        "id": 116206463,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-10"
+        },
+        "persistent_id": "945a7695441fb8a2da826580e40042039175dea4c06f9e2ee152ce46f7331826",
+        "id": 116206479,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Status update unavailable",
+            "date": "2024-05"
+        },
+        "persistent_id": "0bd4972b1562db45dd111575193cc8ee34cca579687be453d3871d662cf52404",
+        "id": 116206800,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "506906d392e60443c921339ed89c47c4ecea5ecbd0662246448cce82c090fb82",
+        "id": 116207072,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-08"
+        },
+        "persistent_id": "bfd5a637fc3eb54ddbd0f3a44c246bce5327eea3d075065c09a10bbffc842568",
+        "id": 116207123,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-03"
+        },
+        "persistent_id": "dc892fd7ee1af5591ea2e61380db3f8de289b5a60843e9233448f016455c3627",
+        "id": 116202464,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Local resolution",
+            "date": "2024-01"
+        },
+        "persistent_id": "4d7c494cb4b255184b7eae8f618bc42f369c77224bdbca419504816e2e1b3382",
+        "id": 116202085,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "f9e697641f41753a9e122cab3f206d77e0f631436917ed9f588885a58348589f",
+        "id": 116201376,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "c52763c3057f744a0de7fa41dee52f34f854b62b7d193159d1d70060c0777a95",
+        "id": 116207537,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "23563e59132e340b06144e4c5e1946e4e8a2b22154d3592a19c3473d293e2078",
+        "id": 116207717,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "7d6312de83700476d32608692326f6766b2f2a647d9da73900cd20e1a4ce9ed2",
+        "id": 116207737,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-04"
+        },
+        "persistent_id": "f1b6fffbf5de57197acb6dd94e6d524475b7774c7042b04bc6099d8de3ecd8cc",
+        "id": 116207877,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "e67c778587e89ead1830f5175ca8a0b0a25bc5dc1df79200aeda3e1d57873ede",
+        "id": 116208050,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "7708181019972afbd8522d868db18bb0abfc2b1c77535b3e7510f482cbab31cf",
+        "id": 116207995,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-08"
+        },
+        "persistent_id": "27511674e80ac8320adb46bb4d3b76d60cce56781012bd2293f4d17ad27bef37",
+        "id": 116208181,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "16722eb15af9690911ca2e15baf343851f4fa9cafd29d2bf3456abcd56fa0156",
+        "id": 116208354,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-04"
+        },
+        "persistent_id": "2581d5b6b26081db653a2abb406602a48fef4dc2dcac928ce046589511b5708c",
+        "id": 116208088,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-08"
+        },
+        "persistent_id": "a5daec207e938046c0e359e9a276715a43e082b492a72088cdac942f826c0e64",
+        "id": 116206986,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-08"
+        },
+        "persistent_id": "5bf9734d111f11d5f23fd5864b5b4598b9998483f938bf15a167c4edd4cb4135",
+        "id": 116206987,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-01"
+        },
+        "persistent_id": "f00e2384776cff67a8dd9216dc8cd790d26890f639206c35d3075a24bd32c411",
+        "id": 116206369,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "5b06772b1714de7c2e4c8a316fd92e210c9c8e0cd3d20bb107c78d6f859c381b",
+        "id": 116200776,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "326a2db8004f2982dc7f20427d41b008e994c78601a42596223a58130be009d7",
+        "id": 116201389,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "889fde293bcc5c9c6912b0665ed4cb702327dbfad7ff8c84a2ba25408bcb06a1",
+        "id": 116201498,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "67351fb132b03bcb8764073405a7457729b7a34ea6b718ac16ea0a203b1d08be",
+        "id": 116201552,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "a09caa832f4031bed68aa527ad02fa2bb61decea0252500bbf601d5bfa64bdcf",
+        "id": 116201685,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "4cfd5e6fb904ab5cc19e49bd07d816287690945b2edb2c9c656ce839a26eb767",
+        "id": 116201723,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "d8efc6e22a98db5bb440e06e7afedbd1f8b33c4d758bae60d548d841a059c926",
+        "id": 116201998,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "c6310fbd5f0b3e3cbeff95db32f103d3be5c98f740f8742ab99b8fe8b345ffad",
+        "id": 116202034,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Court result unavailable",
+            "date": "2024-07"
+        },
+        "persistent_id": "1f2bc6613e8666e24d78d5d7f72a872f5d54a980742e75d84896653d73c51714",
+        "id": 116202462,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "790b11e8d527ec59008061791dd7e2cf8d1509ab4c307b98b152468a565a3af1",
+        "id": 116202714,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "79719015b88d7413bb93e6aa9bf0282a325b7d09c84a6964e42f231cbd75b10d",
+        "id": 116203044,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "e3b61168849ad5acee52f8fa4e6f31986c3d6b21efc0ed7a49f03e9f83d7e56a",
+        "id": 116203964,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "b60b6ea61c9f01928fd4310d56a1b76cbc5f6116c287828515faa1f4c9c0c0a1",
+        "id": 116203508,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "c44d5498634f1b87fff8ae56da76bd42f26268b88bb997d66bae538ef8e63ae0",
+        "id": 116203523,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-01"
+        },
+        "persistent_id": "9bf7cee60525d90d4ce078997585373f262d03e44333821772ad8d4aea703b57",
+        "id": 116203835,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-01"
+        },
+        "persistent_id": "796436405cefedd122b43a9951b1742c535217ad07821683c013b290f5c6e1f4",
+        "id": 116206852,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Further action is not in the public interest",
+            "date": "2024-01"
+        },
+        "persistent_id": "ae44a32dbcbb62cb0ce26e95c1a9e3da1cffe7deb5267c961b3f38e8ca58e64b",
+        "id": 116207509,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Offender given a caution",
+            "date": "2024-06"
+        },
+        "persistent_id": "9c9ca7573a7b4b10be2fe5f4dd8ae526a8e04f30bd0f9743069ed89bb537033d",
+        "id": 116207143,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "violent-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-03"
+        },
+        "persistent_id": "08994b2f033726bdc82b38ab2100dac29217f3605ae295af18b5f446a0e25dad",
+        "id": 116203887,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Further investigation is not in the public interest",
+            "date": "2024-03"
+        },
+        "persistent_id": "28efea9d5094cd3cfd1b4b05cb0a1ae051dcb14e0a61872df6d4eba1b5b045f2",
+        "id": 116208393,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-04"
+        },
+        "persistent_id": "9bfd4271751c41f7943625e817f0ef8bdc85d45b3ea7c79da39a9ae542fb2398",
+        "id": 116204711,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-11"
+        },
+        "persistent_id": "ac6c21bc8d0e6a487a13f83ab031b78c813c989ea216cbd4671c595d294d0de8",
+        "id": 116208548,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Unable to prosecute suspect",
+            "date": "2024-02"
+        },
+        "persistent_id": "467903ddc231949819b13293566fcf15adb6a2c49cc1a8407059f84edb5dcb5e",
+        "id": 116208077,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Investigation complete; no suspect identified",
+            "date": "2024-01"
+        },
+        "persistent_id": "e6d05af34f4b905361c56722be5841b00a2b11dbde624b398209d28966959af2",
+        "id": 116203788,
+        "location_subtype": "",
+        "month": "2024-01"
+    },
+    {
+        "category": "other-crime",
+        "location_type": null,
+        "location": null,
+        "context": "",
+        "outcome_status": {
+            "category": "Action to be taken by another organisation",
+            "date": "2024-03"
+        },
+        "persistent_id": "f8000e44e7484c7d3a03f2864f252cabfdafaa3b0e9b0c760d6f509d8b0e4916",
+        "id": 116207070,
+        "location_subtype": "",
+        "month": "2024-01"
+    }
+]
